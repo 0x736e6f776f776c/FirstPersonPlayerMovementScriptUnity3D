@@ -3,4 +3,4 @@ A simple and easily adjustable movement script for Unity3D</br>
 **Includes camera movement**
 </br>
 
-**Transfered to new repository for privacy-related reasons, I made this project in 2019*
+*Transfered to new repository for privacy-related reasons, I made this project in 2019*
